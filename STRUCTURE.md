@@ -1,6 +1,6 @@
 General Relativity repository structure
 
-- Lecture_Notes/HW 1 ... HW 6
+- HW 1 ... HW 6
 - Notes
 - Schutz Solutions
 
